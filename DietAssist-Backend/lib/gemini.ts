@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI, SchemaType } from "@google/generative-ai";
 
-const apiKey = process.env.GEMINI_API_KEY || "AIzaSyD8SmyQtaA9D_9CZ2CP_uXyJlKwC7gtfrs";
+const apiKey = process.env.GEMINI_API_KEY || "";
 const genAI = new GoogleGenerativeAI(apiKey);
 
 export interface AIAnalysisResult {

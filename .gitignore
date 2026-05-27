@@ -3,7 +3,9 @@ DietAssist-Backend/node_modules/
 DietAssist-Backend/.next/
 DietAssist-Backend/out/
 DietAssist-Backend/build/
-DietAssist-Backend/.env*.local
+**/.env
+**/.env.local
+**/.env.*
 DietAssist-Backend/npm-debug.log*
 DietAssist-Backend/yarn-debug.log*
 DietAssist-Backend/yarn-error.log*
