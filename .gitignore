@@ -1,0 +1,30 @@
+# Next.js / Node.js
+DietAssist-Backend/node_modules/
+DietAssist-Backend/.next/
+DietAssist-Backend/out/
+DietAssist-Backend/build/
+DietAssist-Backend/.env*.local
+DietAssist-Backend/npm-debug.log*
+DietAssist-Backend/yarn-debug.log*
+DietAssist-Backend/yarn-error.log*
+
+# Android / Kotlin
+DietAssist-Frontend/.gradle/
+DietAssist-Frontend/local.properties
+DietAssist-Frontend/.idea/workspace.xml
+DietAssist-Frontend/.idea/libraries/
+DietAssist-Frontend/.idea/modules.xml
+DietAssist-Frontend/.idea/deploymentTargetSelector.xml
+DietAssist-Frontend/.idea/deviceManager.xml
+DietAssist-Frontend/.idea/vcs.xml
+DietAssist-Frontend/build/
+DietAssist-Frontend/app/build/
+DietAssist-Frontend/.kotlin/
+DietAssist-Frontend/window_dump.xml
+
+# System & IDE files
+.idea/
+*.log
+logcat_crash.txt
+.DS_Store
+Thumbs.db
