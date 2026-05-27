@@ -5,7 +5,13 @@
 [![Supabase](https://img.shields.io/badge/Supabase-Database-green.svg?style=flat&logo=supabase)](https://supabase.com/)
 [![Gemini AI](https://img.shields.io/badge/Gemini--2.5--Flash-AI-blue.svg?style=flat&logo=google)](https://deepmind.google/technologies/gemini/)
 
-> **DietAssist** adalah ekosistem aplikasi pelacakan diet cerdas modern yang menggabungkan kemudahan aplikasi mobile berbasis Android (Jetpack Compose) dengan kekuatan analisis visual kecerdasan buatan (Computer Vision) dan Natural Language Processing (NLP) dari Google Gemini 2.5 Flash di sisi backend.
+> **DietAssist** adalah ekosistem aplikasi pelacakan diet cerdas modern yang menggabungkan kemudahan aplikasi mobile berbasis Android (Jetpack Compose) dengan kekuatan analisis visual kecendasan buatan (Computer Vision) dan Natural Language Processing (NLP) dari Google Gemini 2.5 Flash di sisi backend.
+
+---
+
+### 👥 Kelompok 5 (PAB - Pemrograman Aplikasi Bergerak)
+*   **Arie Muhamad Syahrial**
+*   **Muhammd Rifqy**
 
 ---
 
@@ -310,22 +316,27 @@ Seluruh endpoint backend dihosting di platform Vercel dengan domain utama `https
 
 Berikut adalah dokumentasi visual antarmuka pengguna (UI) dari aplikasi **DietAssist** (aset visual dapat ditemukan pada folder repositori [referensiDietAssist](file:///c:/Users/Hype/Documents/PAB/DietAssist/referensiDietAssist)):
 
-````carousel
-![Pilihan Scan Makanan](referensiDietAssist/pilihan%20scan.jpeg)
-<!-- slide -->
-![Tampilan Viewfinder Kamera Scan](referensiDietAssist/scankamera.jpeg)
-<!-- slide -->
-![Dashboard Harian - Sukses Log Makanan](referensiDietAssist/dashboard.jpeg)
-<!-- slide -->
-![Dashboard Harian - Asupan Hari Berikutnya](referensiDietAssist/dashboard_nextday.jpeg)
-<!-- slide -->
-![Tampilan Menu Komunitas Grup](referensiDietAssist/grup.jpeg)
-<!-- slide -->
-![Menu Pengaturan Profil Pengguna](referensiDietAssist/profile.jpeg)
-````
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><b>Pilihan Scan Makanan</b><br/><img src="referensiDietAssist/pilihan%20scan.jpeg" width="100%"/></td>
+    <td align="center" width="50%"><b>Viewfinder Kamera Scan</b><br/><img src="referensiDietAssist/scankamera.jpeg" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><b>Dashboard (Sukses Log Makanan)</b><br/><img src="referensiDietAssist/dashboard.jpeg" width="100%"/></td>
+    <td align="center" width="50%"><b>Dashboard (Detail Nutrisi)</b><br/><img src="referensiDietAssist/dashboard1.jpeg" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><b>Dashboard (Hari Berikutnya)</b><br/><img src="referensiDietAssist/dashboard_nextday.jpeg" width="100%"/></td>
+    <td align="center" width="50%"><b>Menu Komunitas Grup</b><br/><img src="referensiDietAssist/grup.jpeg" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><b>Pengaturan Profil Pengguna</b><br/><img src="referensiDietAssist/profile.jpeg" width="100%"/></td>
+    <td align="center" width="50%"><b>Referensi Profil</b><br/><img src="referensiDietAssist/profileref.jpeg" width="100%"/></td>
+  </tr>
+</table>
 
 > [!NOTE]
 > Proyek ini dikembangkan untuk mempermudah gaya hidup sehat dengan memanfaatkan teknologi AI modern secara cuma-cuma dan terbuka. Pastikan API Key Gemini dan Supabase Anda tidak disebarluaskan secara publik.
 
 ---
-*Developed with ❤️ by Google DeepMind Agentic Team & Pair Programming Partners.*
+*Developed with ❤️ by Kelompok 5: Arie Muhamad Syahrial & Muhammd Rifqy.*
