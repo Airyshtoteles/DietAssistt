@@ -7,19 +7,22 @@ export async function GET() {
   const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY || '';
   const geminiKey = process.env.GEMINI_API_KEY || '';
 
-  // 1. Uji kueri langsung ke users_profile
+  // 1. Coba panggil RPC list_tables
+  const { data: tablesList, error: rpcError } = await supabase.rpc('list_tables');
+
+  // 2. Uji kueri langsung ke users_profile
   const { data: usersProfileData, error: usersProfileError } = await supabase
     .from('users_profile')
     .select('*')
     .limit(1);
 
-  // 2. Uji kueri langsung ke profiles
+  // 3. Uji kueri langsung ke profiles
   const { data: profilesData, error: profilesError } = await supabase
     .from('profiles')
     .select('*')
     .limit(1);
 
-  // 3. Uji kueri langsung ke food_logs
+  // 4. Uji kueri langsung ke food_logs
   const { data: foodLogsData, error: foodLogsError } = await supabase
     .from('food_logs')
     .select('*')
@@ -31,6 +34,10 @@ export async function GET() {
     anonKeyLength: anonKey.length,
     serviceKeyLength: serviceKey.length,
     geminiKeyLength: geminiKey.length,
+    
+    // Daftar Tabel dari RPC (jika sudah dibuat)
+    databaseTables: tablesList || null,
+    rpcError: rpcError ? { code: rpcError.code, message: rpcError.message } : null,
     
     // Hasil Pengujian Tabel
     testUsersProfile: {
