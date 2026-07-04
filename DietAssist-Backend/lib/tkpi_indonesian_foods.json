@@ -1,0 +1,392 @@
+[
+  {
+    "food_name": "Nasi Putih",
+    "portion_standard": "1 piring (100g)",
+    "calories": 130,
+    "protein": 2.7,
+    "carbs": 28.0,
+    "fat": 0.3,
+    "category": "Makanan Pokok",
+    "description": "Nasi putih matang dari beras giling biasa."
+  },
+  {
+    "food_name": "Nasi Uduk",
+    "portion_standard": "1 piring (100g)",
+    "calories": 160,
+    "protein": 3.0,
+    "carbs": 23.0,
+    "fat": 6.0,
+    "category": "Makanan Pokok",
+    "description": "Nasi yang dimasak dengan santan, daun pandan, sereh, cengkeh, dan kayu manis."
+  },
+  {
+    "food_name": "Nasi Goreng Biasa",
+    "portion_standard": "1 porsi (250g)",
+    "calories": 333,
+    "protein": 12.4,
+    "carbs": 41.8,
+    "fat": 12.8,
+    "category": "Makanan Pokok",
+    "description": "Nasi goreng standar dengan bumbu kecap manis, bawang merah, bawang putih, minyak goreng, dan telur orak-arik."
+  },
+  {
+    "food_name": "Rendang Sapi",
+    "portion_standard": "1 potong sedang (50g)",
+    "calories": 195,
+    "protein": 10.3,
+    "carbs": 2.6,
+    "fat": 16.0,
+    "category": "Lauk Pauk",
+    "description": "Daging sapi yang dimasak perlahan dalam santan dan campuran rempah khas Minang."
+  },
+  {
+    "food_name": "Ayam Goreng Khas Indonesia",
+    "portion_standard": "1 potong (80g)",
+    "calories": 246,
+    "protein": 21.8,
+    "carbs": 0.0,
+    "fat": 17.5,
+    "category": "Lauk Pauk",
+    "description": "Ayam ungkep bumbu kuning yang digoreng dalam minyak panas."
+  },
+  {
+    "food_name": "Ayam Bakar",
+    "portion_standard": "1 potong (80g)",
+    "calories": 178,
+    "protein": 20.5,
+    "carbs": 3.2,
+    "fat": 9.0,
+    "category": "Lauk Pauk",
+    "description": "Ayam berbumbu kecap dan rempah yang dibakar di atas arang."
+  },
+  {
+    "food_name": "Sate Ayam Madura",
+    "portion_standard": "5 tusuk + bumbu kacang (100g)",
+    "calories": 225,
+    "protein": 20.0,
+    "carbs": 5.0,
+    "fat": 13.0,
+    "category": "Lauk Pauk",
+    "description": "Sate daging dada ayam yang disajikan dengan bumbu kacang gurih manis."
+  },
+  {
+    "food_name": "Sate Kambing",
+    "portion_standard": "5 tusuk + bumbu kecap (100g)",
+    "calories": 268,
+    "protein": 22.0,
+    "carbs": 4.5,
+    "fat": 18.0,
+    "category": "Lauk Pauk",
+    "description": "Sate daging kambing muda dibakar dengan siraman kecap manis, bawang merah, dan cabai."
+  },
+  {
+    "food_name": "Gado-Gado",
+    "portion_standard": "1 porsi sedang (250g)",
+    "calories": 295,
+    "protein": 10.4,
+    "carbs": 26.0,
+    "fat": 17.1,
+    "category": "Sayuran / Salad",
+    "description": "Sayuran rebus (kangkung, tauge, kacang panjang) dipadu tahu, tempe, telur rebus, dan saus kacang kental."
+  },
+  {
+    "food_name": "Ketoprak",
+    "portion_standard": "1 porsi (300g)",
+    "calories": 402,
+    "protein": 11.5,
+    "carbs": 53.0,
+    "fat": 15.8,
+    "category": "Makanan Pokok",
+    "description": "Ketupat, tahu goreng, tauge rebus, bihun disiram saus kacang tanah ulek khas Jakarta."
+  },
+  {
+    "food_name": "Pecel Madiun",
+    "portion_standard": "1 porsi (200g)",
+    "calories": 230,
+    "protein": 8.0,
+    "carbs": 29.0,
+    "fat": 9.5,
+    "category": "Sayuran / Salad",
+    "description": "Aneka sayuran rebus disiram bumbu pecel kacang manis-pedas khas Jawa Timur."
+  },
+  {
+    "food_name": "Bakso Sapi Kuah",
+    "portion_standard": "1 mangkok (5 pentol sedang + bihun/mie + kuah)",
+    "calories": 302,
+    "protein": 15.6,
+    "carbs": 22.9,
+    "fat": 16.2,
+    "category": "Makanan Pokok",
+    "description": "Bakso daging sapi halus disajikan dengan kuah kaldu sapi, seledri, bawang goreng, mie/bihun."
+  },
+  {
+    "food_name": "Mie Goreng Jawa",
+    "portion_standard": "1 porsi (250g)",
+    "calories": 380,
+    "protein": 11.2,
+    "carbs": 51.5,
+    "fat": 14.5,
+    "category": "Makanan Pokok",
+    "description": "Mie kuning basah ditumis dengan kol, sawi, telur, ayam suwir, dan kecap manis pekat."
+  },
+  {
+    "food_name": "Mie Ayam Pangsit",
+    "portion_standard": "1 mangkok (250g)",
+    "calories": 412,
+    "protein": 18.0,
+    "carbs": 55.0,
+    "fat": 13.5,
+    "category": "Makanan Pokok",
+    "description": "Mie gandum kenyal disiram tumisan daging ayam cincang kecap, sayur sawi, daun bawang, dan pangsit rebus."
+  },
+  {
+    "food_name": "Soto Ayam Khas Lamongan",
+    "portion_standard": "1 mangkok sedang (tanpa nasi)",
+    "calories": 185,
+    "protein": 14.5,
+    "carbs": 6.8,
+    "fat": 11.2,
+    "category": "Sup / Soto",
+    "description": "Soto berkuah kuning bening kental dari bubuk koya, suwiran ayam, soun, tauge, kol, dan telur rebus."
+  },
+  {
+    "food_name": "Soto Betawi",
+    "portion_standard": "1 mangkok sedang (daging sapi + kuah santan/susu)",
+    "calories": 312,
+    "protein": 19.2,
+    "carbs": 8.5,
+    "fat": 22.5,
+    "category": "Sup / Soto",
+    "description": "Soto kuah santan dan susu dengan isian potongan daging sapi, paru goreng, tomat, kentang rebus, dan emping."
+  },
+  {
+    "food_name": "Opor Ayam Santan",
+    "portion_standard": "1 porsi (1 potong ayam + kuah)",
+    "calories": 280,
+    "protein": 18.5,
+    "carbs": 5.2,
+    "fat": 20.8,
+    "category": "Lauk Pauk",
+    "description": "Ayam yang dimasak dalam kuah santan kental putih kekuningan beraroma kencur dan jintan."
+  },
+  {
+    "food_name": "Rawon Daging Sapi",
+    "portion_standard": "1 mangkok sedang (tanpa nasi)",
+    "calories": 220,
+    "protein": 16.8,
+    "carbs": 4.5,
+    "fat": 14.8,
+    "category": "Sup / Soto",
+    "description": "Sup daging sapi khas Jawa Timur berkuah hitam legam yang menggunakan rempah kluwek."
+  },
+  {
+    "food_name": "Gudeg Jogja Komplit",
+    "portion_standard": "1 piring (gudeg nangka, areh, krecek, telur bacem)",
+    "calories": 420,
+    "protein": 14.0,
+    "carbs": 52.0,
+    "fat": 17.5,
+    "category": "Makanan Pokok",
+    "description": "Nangka muda dimasak manis gurih khas Yogyakarta, disandingkan sambal goreng krecek dan telur bacem."
+  },
+  {
+    "food_name": "Pempek Kapal Selam",
+    "portion_standard": "1 buah besar + kuah cuko (100g)",
+    "calories": 190,
+    "protein": 11.0,
+    "carbs": 26.0,
+    "fat": 4.5,
+    "category": "Camilan / Lauk",
+    "description": "Olahan daging ikan tenggiri dan sagu dengan isian telur utuh di dalamnya, digoreng garing."
+  },
+  {
+    "food_name": "Tempe Goreng Tepung (Mendoan)",
+    "portion_standard": "1 potong sedang (50g)",
+    "calories": 118,
+    "protein": 5.2,
+    "carbs": 8.5,
+    "fat": 7.5,
+    "category": "Lauk Pauk",
+    "description": "Tempe tipis dilapisi adonan terigu, irisan daun bawang, dan ketumbar, digoreng setengah matang/garing."
+  },
+  {
+    "food_name": "Tahu Goreng Sumedang / Biasa",
+    "portion_standard": "2 potong kecil (50g)",
+    "calories": 58,
+    "protein": 4.8,
+    "carbs": 1.3,
+    "fat": 4.0,
+    "category": "Lauk Pauk",
+    "description": "Tahu putih/kuning digoreng dalam minyak panas sampai berkulit tipis cokelat."
+  },
+  {
+    "food_name": "Telur Ceplok (Mata Sapi)",
+    "portion_standard": "1 butir (50g)",
+    "calories": 92,
+    "protein": 6.3,
+    "carbs": 0.4,
+    "fat": 7.0,
+    "category": "Lauk Pauk",
+    "description": "Telur ayam ras digoreng langsung dalam minyak panas tanpa diaduk."
+  },
+  {
+    "food_name": "Telur Dadar Goreng Minyak",
+    "portion_standard": "1 butir (50g)",
+    "calories": 115,
+    "protein": 6.5,
+    "carbs": 0.8,
+    "fat": 9.5,
+    "category": "Lauk Pauk",
+    "description": "Telur ayam dikocok lepas dengan bumbu garam/daun bawang, digoreng mengembang di minyak panas."
+  },
+  {
+    "food_name": "Perkedel Kentang",
+    "portion_standard": "1 buah sedang (40g)",
+    "calories": 78,
+    "protein": 1.8,
+    "carbs": 12.5,
+    "fat": 2.5,
+    "category": "Lauk Pauk",
+    "description": "Kentang goreng dihaluskan dengan bumbu bawang putih dan pala, dilapisi kocokan telur lalu digoreng."
+  },
+  {
+    "food_name": "Bakwan Sayur (Bala-Bala)",
+    "portion_standard": "1 buah sedang (50g)",
+    "calories": 137,
+    "protein": 2.0,
+    "carbs": 16.4,
+    "fat": 7.2,
+    "category": "Camilan / Gorengan",
+    "description": "Adonan tepung terigu berisi wortel, kubis, tauge yang digoreng garing dalam minyak terendam."
+  },
+  {
+    "food_name": "Sayur Asem Khas Sunda",
+    "portion_standard": "1 mangkok sedang + kuah (150g)",
+    "calories": 80,
+    "protein": 2.5,
+    "carbs": 16.0,
+    "fat": 0.8,
+    "category": "Sayuran / Salad",
+    "description": "Kuah rasa asam manis pedas berisi melinjo, daun melinjo, jagung manis, labu siam, kacang tanah, kacang panjang."
+  },
+  {
+    "food_name": "Sayur Lodeh",
+    "portion_standard": "1 mangkok sedang + kuah santan (150g)",
+    "calories": 142,
+    "protein": 3.2,
+    "carbs": 12.8,
+    "fat": 9.0,
+    "category": "Sayuran / Salad",
+    "description": "Sayuran campur (labu siam, nangka muda, kacang panjang, terong) dimasak dalam kuah santan encer gurih."
+  },
+  {
+    "food_name": "Sayur Sop Ayam Biasa",
+    "portion_standard": "1 mangkok sedang + kuah bening (150g)",
+    "calories": 65,
+    "protein": 4.5,
+    "carbs": 7.2,
+    "fat": 2.0,
+    "category": "Sup / Soto",
+    "description": "Sup kuah kaldu ayam bening berisi wortel, kentang, buncis, kembang kol, seledri, dan suwiran ayam sedikit."
+  },
+  {
+    "food_name": "Tumis Cah Kangkung",
+    "portion_standard": "1 piring kecil (100g)",
+    "calories": 72,
+    "protein": 2.1,
+    "carbs": 4.5,
+    "fat": 5.2,
+    "category": "Sayuran / Salad",
+    "description": "Kangkung ditumis dengan bawang merah, bawang putih, cabai, minyak goreng, dan terasi/saus tiram."
+  },
+  {
+    "food_name": "Bubur Ayam Biasa",
+    "portion_standard": "1 porsi komplit (bubur, ayam suwir, kedelai goreng, kuah kuning)",
+    "calories": 350,
+    "protein": 12.0,
+    "carbs": 45.0,
+    "fat": 8.0,
+    "category": "Makanan Pokok",
+    "description": "Bubur beras bertekstur lembut disajikan dengan kaldu kuning encer, ayam suwir, kedelai, seledri, cakwe, kerupuk."
+  },
+  {
+    "food_name": "Lontong Sayur Betawi",
+    "portion_standard": "1 piring (lontong + sayur labu siam santan)",
+    "calories": 290,
+    "protein": 6.8,
+    "carbs": 44.5,
+    "fat": 9.8,
+    "category": "Makanan Pokok",
+    "description": "Potongan lontong disiram kuah sayur labu siam/pepaya muda bersantan kemerahan gurih."
+  },
+  {
+    "food_name": "Martabak Telur Bebek",
+    "portion_standard": "2 potong sedang (100g)",
+    "calories": 286,
+    "protein": 12.5,
+    "carbs": 18.0,
+    "fat": 18.2,
+    "category": "Camilan / Lauk",
+    "description": "Adonan kulit martabak tipis renyah diisi kocokan telur bebek, potongan daging sapi cincang, dan daun bawang gurih."
+  },
+  {
+    "food_name": "Martabak Manis (Terang Bulan) Cokelat Kacang",
+    "portion_standard": "1 potong sedang (80g)",
+    "calories": 270,
+    "protein": 5.5,
+    "carbs": 38.0,
+    "fat": 11.0,
+    "category": "Camilan / Dessert",
+    "description": "Martabak manis tebal bersarang dengan topping mentega melimpah, susu kental manis, mesis cokelat, dan kacang sangrai."
+  },
+  {
+    "food_name": "Pisang Goreng Tepung",
+    "portion_standard": "1 buah sedang (60g)",
+    "calories": 132,
+    "protein": 1.1,
+    "carbs": 24.2,
+    "fat": 4.8,
+    "category": "Camilan / Gorengan",
+    "description": "Pisang raja/kepok dibalur adonan terigu cair renyah dan digoreng garing dalam minyak banyak."
+  },
+  {
+    "food_name": "Kolak Pisang dan Ubi",
+    "portion_standard": "1 mangkok sedang + kuah santan gula merah (150g)",
+    "calories": 240,
+    "protein": 2.2,
+    "carbs": 48.0,
+    "fat": 5.5,
+    "category": "Camilan / Dessert",
+    "description": "Potongan pisang dan ubi jalar dimasak dalam kuah santan manis gula kelapa aromatik pandan."
+  },
+  {
+    "food_name": "Es Cendol / Dawet",
+    "portion_standard": "1 gelas sedang (200ml)",
+    "calories": 260,
+    "protein": 1.8,
+    "carbs": 46.5,
+    "fat": 8.2,
+    "category": "Minuman / Dessert",
+    "description": "Minuman jeli pati sagu hijau aromatik suji, dipadu es serut, santan gurih, dan sirup gula aren kental."
+  },
+  {
+    "food_name": "Es Campur",
+    "portion_standard": "1 mangkok sedang (250ml)",
+    "calories": 220,
+    "protein": 2.0,
+    "carbs": 45.0,
+    "fat": 4.5,
+    "category": "Minuman / Dessert",
+    "description": "Es serut dengan isian potongan buah alpukat, nangka, kelapa muda, cincau hitam, kolang-kaling disiram sirup merah manis dan susu kental."
+  },
+  {
+    "food_name": "Bubur Kacang Hijau",
+    "portion_standard": "1 mangkok kecil (150g)",
+    "calories": 182,
+    "protein": 6.8,
+    "carbs": 32.5,
+    "fat": 3.0,
+    "category": "Camilan / Dessert",
+    "description": "Kacang hijau direbus empuk dengan jahe dan gula merah, disiram santan gurih di atasnya."
+  }
+]
